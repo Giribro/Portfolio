@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Giribro/Test.git/static/css/main.e120fc3a.css",
-    "main.js": "/Giribro/Test.git/static/js/main.09793bd8.js",
+    "main.js": "/Giribro/Test.git/static/js/main.2ff3cd00.js",
     "index.html": "/Giribro/Test.git/index.html",
     "main.e120fc3a.css.map": "/Giribro/Test.git/static/css/main.e120fc3a.css.map",
-    "main.09793bd8.js.map": "/Giribro/Test.git/static/js/main.09793bd8.js.map"
+    "main.2ff3cd00.js.map": "/Giribro/Test.git/static/js/main.2ff3cd00.js.map"
   },
   "entrypoints": [
     "static/css/main.e120fc3a.css",
-    "static/js/main.09793bd8.js"
+    "static/js/main.2ff3cd00.js"
   ]
 }
